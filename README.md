@@ -13,7 +13,7 @@
   <main>
     <section>
     <img src="https://i.picasion.com/pic92/642b858e14a3b7ed9c77da197d4f3a52.gif" width="300" height="300" border="10" align="right" border="10" />
-      <p>Minha paixão pela tecnologia me impulsiona a aprender continuamente e a me manter atualizada com as últimas tendências e ferramentas em desenvolvimento web, por este motivo decidi migrar da área de projetos para o Front-end. Estou empenhada em aprender e melhorar minhas habilidades em HTML e CSS, e atualmente estou trabalhando em projetos pessoais para consolidar meus conhecimentos.</p>  
+      <p>Minha paixão pela tecnologia me impulsiona a aprender continuamente e a me manter atualizada com as últimas tendências e ferramentas em desenvolvimento web, por este motivo decidi migrar da área de projetos para o Front-end. Atualmente estou trabalhando em projetos pessoais para consolidar meus conhecimentos.</p>  
       <ul>
         <li>Cursando trilha Front-end na plataforma Origamid</li>
         <li>Apaixonada por jogos online</li>
