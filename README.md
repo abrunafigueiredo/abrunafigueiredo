@@ -12,10 +12,11 @@
   </header>
   <main>
     <section>
-    <img src="https://i.picasion.com/pic92/642b858e14a3b7ed9c77da197d4f3a52.gif" width="300" height="300" border="10" align="right" border="10" />
-      <p>Minha paixão pela tecnologia me impulsiona a aprender continuamente e a me manter atualizada com as últimas tendências e ferramentas em desenvolvimento web, por este motivo decidi migrar da área de projetos para o Front-end. Atualmente estou trabalhando em projetos pessoais para consolidar meus conhecimentos.</p>  
+    <img src="https://1.bp.blogspot.com/-8vQGS4A0Zs8/U2wl0M_jnxI/AAAAAAAAFuI/Hjdc5rX5FQw/s1600/Kirby+7.gif" width="300" height="300" border="10" align="right" border="10" />
+      <p>Bem-vindo(a) ao meu perfil!</p>  
       <ul>
-        <li>Cursando trilha Front-end na plataforma Origamid</li>
+        <li>Em transição de carreira (PO - Front End)
+        <li>Cursando trilha Front End na plataforma Origamid</li>
         <li>Apaixonada por jogos online</li>
       </ul>
       </p> 
@@ -42,9 +43,6 @@
           <a href="https://www.linkedin.com/in/bruna-figueiredo-farias/"><img src="https://img.icons8.com/dusk/64/null/linkedin--v1.png"/></a> 
           <a href="mailto:brunafigueiredo@outlook.com.br"><img src="https://img.icons8.com/dusk/64/null/apple-mail.png"/></a>
     </section>
-  <div align="center">
-  ![Snake animation](https://github.com/abrunafigueiredo/abrunafigueiredo/blob/output/github-contribution-grid-snake.svg)
-</div>
   </main>
 </body>
 
