@@ -27,12 +27,14 @@
         <tr>
           <td><img src="https://img.icons8.com/dusk/64/null/html-5.png"/></td>
           <td><img src="https://img.icons8.com/dusk/64/null/css3.png"/></td>
+          <td><img src="https://img.icons8.com/dusk/64/null/javascript-logo.png"/></td>
           <td><img src="https://img.icons8.com/dusk/64/null/visual-studio-code-2019.png"/></td>
           <td><img src="https://img.icons8.com/officel/64/null/figma.png"/></td>
         </tr>
         <tr style="text-align=center">
           <td align="center">HTML5</td>
           <td align="center">CSS3</td>
+          <td align="center">Javascript</td>
           <td align="center">VS Code</td>
           <td align="center">Figma</td>
         </tr>
