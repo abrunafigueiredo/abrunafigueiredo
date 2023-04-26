@@ -12,7 +12,7 @@
   </header>
   <main>
     <section>
-    <img src="https://1.bp.blogspot.com/-8vQGS4A0Zs8/U2wl0M_jnxI/AAAAAAAAFuI/Hjdc5rX5FQw/s1600/Kirby+7.gif" width="300" height="300" border="10" align="right" border="10" />
+    <img src="https://1.bp.blogspot.com/-8vQGS4A0Zs8/U2wl0M_jnxI/AAAAAAAAFuI/Hjdc5rX5FQw/s1600/Kirby+7.gif" width="300" height="300" border="10" align="right" />
       <p>Bem-vindo(a) ao meu perfil!</p>  
       <ul>
         <li>Em transição de carreira (PO - Front End)
@@ -29,18 +29,30 @@
           <td><img src="https://img.icons8.com/dusk/64/null/css3.png"/></td>
           <td><img src="https://img.icons8.com/dusk/64/null/javascript-logo.png"/></td>
           <td><img src="https://img.icons8.com/dusk/64/null/visual-studio-code-2019.png"/></td>
-          <td><img src="https://img.icons8.com/dusk/64/null/wordpress--v1.png" /></td>
-          <td><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/64/null/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png"/></td>
-          <td><img src="https://img.icons8.com/officel/64/null/figma.png"/></td>
+          <td><img src="https://img.icons8.com/color/64/null/sass.png"/></td>
         </tr>
         <tr style="text-align=center">
           <td align="center">HTML5</td>
           <td align="center">CSS3</td>
-          <td align="center">Javascript</td>
+          <td align="center">JS</td>
           <td align="center">VS Code</td>
-          <td align="center">WP</td>
+          <td align="center">SASS</td>
+        </tr>
+      </table>
+            <table>
+        <tr>
+          <td><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/64/null/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png"/></td>
+          <td><img src="https://img.icons8.com/dusk/64/null/wordpress--v1.png" /></td>
+          <td><img src="https://img.icons8.com/officel/64/null/figma.png"/></td>
+          <td><img src="https://img.icons8.com/dusk/64/null/google-logo--v1.png"/></td>
+          <td><img src="https://avatars.githubusercontent.com/u/1288938?s=280&v=4" width="64" height="64"/></td>
+        </tr>
+        <tr style="text-align=center">
           <td align="center">JQuery</td>
+          <td align="center">WP</td>
           <td align="center">Figma</td>
+          <td align="center">GTM</td>
+          <td align="center">VTEX</td>
         </tr>
       </table>
     </section>
