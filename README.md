@@ -42,7 +42,7 @@
           <a href="https://www.linkedin.com/in/bruna-figueiredo-farias/"><img src="https://img.icons8.com/dusk/64/null/linkedin--v1.png"/></a> 
           <a href="mailto:brunafigueiredo@outlook.com.br"><img src="https://img.icons8.com/dusk/64/null/apple-mail.png"/></a>
     </section>
-    ![Snake animation](https://github.com/abrunafigueiredo/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/abrunafigueiredo/abrunafigueiredo/blob/output/github-contribution-grid-snake.svg)
   </main>
 </body>
 
