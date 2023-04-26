@@ -29,7 +29,7 @@
           <td><img src="https://img.icons8.com/dusk/64/null/css3.png"/></td>
           <td><img src="https://img.icons8.com/dusk/64/null/javascript-logo.png"/></td>
           <td><img src="https://img.icons8.com/dusk/64/null/visual-studio-code-2019.png"/></td>
-          <td><img src="https://img.icons8.com/dusk/64/null/wordpress--v1.png" style="margin:auto;display:block;/></td>
+          <td><img src="https://img.icons8.com/dusk/64/null/wordpress--v1.png" /></td>
           <td><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/64/null/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png"/></td>
           <td><img src="https://img.icons8.com/officel/64/null/figma.png"/></td>
         </tr>
@@ -38,7 +38,7 @@
           <td align="center">CSS3</td>
           <td align="center">Javascript</td>
           <td align="center">VS Code</td>
-          <td align="center">Wordpress</td>
+          <td align="center">WP</td>
           <td align="center">JQuery</td>
           <td align="center">Figma</td>
         </tr>
